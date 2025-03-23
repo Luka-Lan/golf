@@ -1,0 +1,4 @@
+Sitemap: https://luka-lan.github.io/golf/sitemap.xml
+
+User-agent: *
+Disallow:
